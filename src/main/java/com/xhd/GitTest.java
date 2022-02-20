@@ -9,6 +9,6 @@ public class GitTest {
         System.out.println("master Commit");
         System.out.println("hot-fix Commit ");
         System.out.println("push commit");
-        System.out.println("ssh commit");
+        System.out.println("ssh commit2");
     }
 }
